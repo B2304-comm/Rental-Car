@@ -10,6 +10,7 @@ A responsive car rental landing page with a vehicle showcase, location section, 
 - Swiper-powered dream car carousel with price updates
 - ScrollReveal animations across the page
 - Funny animated rental car lane built with HTML and CSS
+- Animated languages and tools section for HTML, CSS, Bootstrap, and Java
 - Optional Express and SQLite backend starter in `node.js`
 
 ## Tech Stack
@@ -17,6 +18,8 @@ A responsive car rental landing page with a vehicle showcase, location section, 
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
+- Java
 - Swiper.js
 - ScrollReveal
 - Remix Icon
